@@ -16,7 +16,7 @@ end
 
 def my_hash_creator(key, value)
   hash={:key=> value}
-  hash[!:key]
+  hash[new_key]
 
 
 end
